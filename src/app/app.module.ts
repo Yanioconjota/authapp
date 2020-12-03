@@ -25,7 +25,7 @@ import { AuthModule } from '@auth0/auth0-angular';
     // Import the module into the application, with configuration
     AuthModule.forRoot({
       domain: 'yanioconjota.us.auth0.com',
-      clientId: 'Agw32t5OPLp6rsSE5abqkSS5nde08Q50'
+      clientId: '17wdhEQ038bsQ0rS1PGQ4Ty9Ya4qrvs4'
     }),
   ],
   providers: [],
